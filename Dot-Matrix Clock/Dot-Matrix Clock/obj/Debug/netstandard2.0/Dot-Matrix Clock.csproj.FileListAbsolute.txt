@@ -1,0 +1,14 @@
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\bin\Debug\netstandard2.0\Dot-Matrix Clock.deps.json
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\bin\Debug\netstandard2.0\Dot-Matrix Clock.dll
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\bin\Debug\netstandard2.0\ref\Dot-Matrix Clock.dll
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\bin\Debug\netstandard2.0\Dot-Matrix Clock.pdb
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\Dot-Matrix Clock.csprojAssemblyReference.cache
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\Dot-Matrix Clock.AssemblyInfoInputs.cache
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\Dot-Matrix Clock.AssemblyInfo.cs
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\Dot-Matrix Clock.csproj.CoreCompileInputs.cache
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\Dot-Matrix Clock.dll
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\ref\Dot-Matrix Clock.dll
+C:\Users\Mikki\source\repos\Dot-Matrix Clock\Dot-Matrix Clock\Dot-Matrix Clock\obj\Debug\netstandard2.0\Dot-Matrix Clock.pdb
